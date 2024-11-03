@@ -2,7 +2,7 @@
 title: Relevé Bancaire
 publishDate: 2024-5-07 00:00:00
 img: /assets/affichCompte.png
-img_alt: Tableau affichant lle résultat de la saisi d'un compte
+img_alt: Tableau affichant le résultat de la saisi d'un compte
 description: |
   Lors d'un de mes stages j'ai réaliser une application de lecture de relevé bancaire.
 tags:
