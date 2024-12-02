@@ -1,14 +1,13 @@
 ---
 title: GSB
-publishDate: 2025-03-02 00:00:00
+publishDate: 2024-03-02 00:00:00
 img: /assets/GSB.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Page d'accueil du site
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Développement d'un site de visualisation et gestion de données
 tags:
-  - Design
   - Dev
-  - User Testing
+  - Design
 ---
 
 ## Le projet
